@@ -2,6 +2,7 @@
     "name": "yimu/plug-lib",
     "description": "插件库",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Yimu\\PlugLib\\": "src/"
