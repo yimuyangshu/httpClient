@@ -1,0 +1,7 @@
+#### httpClient
+```php
+    $http = new httpClient($url);
+    $http->set_body("");
+    $http->set_param(Arr);
+    $result = $http->post(); // or get();
+```
