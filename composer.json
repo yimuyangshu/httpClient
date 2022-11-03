@@ -1,0 +1,17 @@
+{
+    "name": "yimu/plug-lib",
+    "description": "插件库",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Yimu\\PlugLib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "易木",
+            "email": "yimuyangshu@163.com"
+        }
+    ],
+    "require": {}
+}
