@@ -5,3 +5,7 @@
     $http->set_param(Arr);
     $result = $http->post(); // or get();
 ```
+### Functions
+1. 小数点后保留位数,不够补充0
+2. 通过回车符分割成数组
+3. 图片转Base64
